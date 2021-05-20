@@ -6,12 +6,12 @@
 </h1>
 
 # Profile 👨‍💻
-Trabalho com monitoramento e observabilidade de dados e SysAdmin. 
+Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de código e afins rs
 
-- 🌱 Atualmente estou estudando ferramentas utilizadas no mundo DevOps
-- 👯 Procuro colaborar em projetos OpenSource direcionados a Zabbix, ELK, Prometheusm etc,,,
-- 💬 Posso te ajudar no seu projeto/estudo de Zabbix, entra em contato comigo 😄
-- 📫 Pra falar comigo, a forma mais facil é pelo Linkedin
+- 🌱 Estudo frequentemente novas ferramentas de monitoramento e automação. (DevOps)
+- 👯 Contribuo na maior parte em projetos utilizando Zabbix
+- 💬 Posso te ajudar no seu projeto/estudo de Zabbix, me chama no linkedin, vamos conversar !
+
 
 # GitHub Stats
 
