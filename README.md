@@ -17,8 +17,8 @@ Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de có
 
 
 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Punkays&show_icons=true&count_private=true&theme=blue-green" width="390"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punkays&show_icons=true&count_private=true&theme=blue-green" width="226"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Punkays&show_icons=true&count_private=true&theme=blue-green" width="448"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punkays&show_icons=true&count_private=true&theme=blue-green" width="259"></a>
 
 # Languages and Tools:
 
