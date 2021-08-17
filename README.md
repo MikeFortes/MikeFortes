@@ -9,7 +9,7 @@
 Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de código e afins rs
 
 - 🌱 Estudo frequentemente novas ferramentas de monitoramento e automação. (DevOps)
-- 👯 Contribuo na maior parte em projetos utilizando Zabbix
+- 👯 Minhas contribuições frequentemente são em projetos relacionados a Zabbix.
 - 💬 Posso te ajudar no seu projeto/estudo de Zabbix, me chama no linkedin, vamos conversar !
 
 
