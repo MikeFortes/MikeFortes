@@ -2,10 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punkays&label=Profile%20views&color=0e75b6&style=flat" alt="MikeFortes" /> </p>
 
 <h1 align='center'>
-  Oi, Bem vindo! Me chamo Mike 🤠
+  Seja Bem vindo! <br>
+  Sou Mike 🤠
 </h1>
 
-# Quem sou eu?! 👨‍💻
+# Quer saber mais?! 👨‍💻
 Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de código e afins rs
 
 - 🌱 Estudo frequentemente novas ferramentas de monitoramento e automação. (DevOps)
