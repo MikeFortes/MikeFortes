@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punkays&label=Profile%20views&color=0e75b6&style=flat" alt="MikeFortes" /> </p>
 
 <h1 align='center'>
-  Seja Bem vindo! <br>
-  Sou Mike 🤠
+  Bienvenue ! <br>
+  Sou Mike
 </h1>
 
 # Quer saber mais?! 👨‍💻
