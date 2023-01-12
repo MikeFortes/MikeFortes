@@ -1,6 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punkays&label=Profile%20views&color=0e75b6&style=flat" alt="MikeFortes" /> </p>
-
 <h1 align='center'>
   Bienvenue ! <br>
   Sou Mike
@@ -34,3 +32,5 @@ Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de có
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=punkays&label=Profile%20views&color=0e75b6&style=flat" alt="MikeFortes" /> </p>
+
