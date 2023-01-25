@@ -14,7 +14,7 @@ Trabalho com monitoramento e observabilidade de dados, SysAdmin, Artesão de có
 
 # GitHub Stats
 
-  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MikeFortes&show_icons=true&count_private=true&theme=blue-green" width="238">
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MikeFortes&show_icons=true&count_private=true&theme=blue-green" width="237">
     </a>
   <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MikeFortes&show_icons=true&count_private=true&theme=blue-green" width="540">
   </a>
