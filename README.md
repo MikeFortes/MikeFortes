@@ -1,7 +1,7 @@
 
 <h1 align='center'>
   Bienvenue ! <br>
-  Sou Mike
+  Je suis Mike
 </h1>
 
 # Quer saber mais?! 👨‍💻
