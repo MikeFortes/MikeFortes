@@ -3,8 +3,6 @@
   Je suis Mike
 </h1>
 
-<a href="https://app.rocketseat.com.br/me/mromeiro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=mromeiro&type=card" width="280" alt="Michael Fortes's Rocket ID"/></a>
-
 # Social
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mromeiro-f.medium.com)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mikefortes/)   [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>](https://dev.to/mromeiro-f) 
 
