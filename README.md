@@ -1,6 +1,6 @@
 
 <h1 align='Left'>
-  Je suis Mike - Ola!
+  Je suis Mike - Olá!
 </h1>
 
 # Social
